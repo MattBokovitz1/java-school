@@ -13,7 +13,7 @@ import javax.validation.Valid;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.util.List;
-//
+
 /**
  * The entry point for clients to work primary with courses
  */
